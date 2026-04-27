@@ -1,2 +1,0 @@
-# Designly
-## Designed by you.
